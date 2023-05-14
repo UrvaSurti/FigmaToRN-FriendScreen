@@ -5,7 +5,7 @@ A mobile application built using react-native.
 		OR
 A Figma file converted into a working react-native application screen.(Considering your application is setup with react-native installed and emulator and gradles sync)
 
-
+![Alt text](https://github.com/UrvaSurti/FigmaToRN-FriendScreen/blob/main/screenshots.png)
 
 
 
