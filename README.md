@@ -15,12 +15,11 @@ cd TestProject
 # Install npm dependencies
 npm install
 	
-# Start Metro 
-# open a new terminal 
-# Note you have to inside react-native project (ie cd TestProject)
+# Start Metro open a new terminal 
+(Note you have to inside react-native project (ie cd TestProject))
 code . (Optional if you want to navigate your screen to open the project in vscode)  
 npx react-native start
 
-# Run the project on Emulator
-# You can run this in the terminal inside vscode note have to be inside react project. 
+# To Run the project on Emulator
+(You can run this in the terminal inside vscode note have to be inside react project). 
 npm run android
