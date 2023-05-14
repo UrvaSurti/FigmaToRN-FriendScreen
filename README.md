@@ -3,7 +3,7 @@ React-Native Frontend Project based on the Figma File provide
 React-Native App Template 
 A mobile application built using react-native.
 		OR
-A Figma file converted into a working react-native application screen.(Considering your application is setup with react-native installed and emulator and gradles sync)
+A Figma file converted into a working react-native application screen.(Considering your application is setup with react-native (version synced as per the file) installed and emulator and gradles synced)
 
 ![Alt text](https://github.com/UrvaSurti/FigmaToRN-FriendScreen/blob/main/screenshots.png)
 
