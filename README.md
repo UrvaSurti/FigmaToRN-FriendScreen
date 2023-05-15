@@ -7,7 +7,7 @@ A Figma file converted into a working react-native application screen.(Consideri
 
 ![Alt text](https://github.com/UrvaSurti/FigmaToRN-FriendScreen/blob/main/screenshots.png)
 
-# Setup Instructions (if you system is not configured for react-native project)
+# Setup Instructions (if your system is not configured for react-native project)
 Install nodejs Linke :- https://nodejs.org/en
 
 Install android Studio :- https://developer.android.com/studio
