@@ -24,7 +24,7 @@ Similar to the above steps set JAVA_HOME path where in 3rd step
 		1. Similar to above
 		2. Similar to above		
 		3. Variable name "JAVA_HOME" and variable value path of jdk11 (should be similar to this C:\Program Files\Java\jdk-11)	
-		4. In system variable set variable path click edit and set paste the similar path as above with bin (similar to this C:\Program Files\Java\jdk-11\bin)
+		4. In system variable click "path" press edit and paste path similar to C:\Program Files\Java\jdk-11\bin)
 
 All set now follow the following steps given below 
 
