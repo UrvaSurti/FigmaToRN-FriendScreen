@@ -45,7 +45,7 @@ path must be similar to FigmaToRN-FriendScreen/android
 npm install --legacy-peer-deps
 	
 # Start Metro open a new terminal 
-(Note you have to inside react-native project (ie cd TestProject))
+(Note you have to be inside react-native project (ie cd FigmaToRN-FriendScreen))
 
 code . (Optional if you want to navigate your screen to open the project in vscode)  
 npx react-native start
